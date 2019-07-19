@@ -4,10 +4,10 @@ There are 2 commented and directive jupyter notebook in this repository. Have no
 2. JoyNLP_TestSet.xlsx
 3. CancerAKAForJoy.xlsx
 
-# Book 1 name: dataset
+# Book 1: dataset(outdated)
 This is the initial work done by me on a dataset provided earlier. The work here is outdated as a much smaller dataset was used and it did not involve much of experimentation, rather only classifier models and best possible tunable parameters were sought out. Some concepts built over here will continue in the next book.
 
-# Book 2 name: newdata
+# Book 2: newdata(main work)
 The initial parts are importing stuff and data processing i.e it is converted into a form which is usable by our classification models. Then we move onto function for data pre-processing and a learning curve function. 
 
 The steps followed for classification are as follows:
