@@ -30,7 +30,6 @@ For the metrics of classifier models the classification report in sklearn packag
 
 1. Recall: TP/(TP+FN)
 2. Precision: TP/(TP+FP)
-3. F1-score: HM of precision and recall
-                2/(Recall <sup>-1</sup> + Precision <sup>-1</sup> )
+3. F1-score(HM of precision and recall) : 2/(Recall <sup>-1</sup> + Precision <sup>-1</sup> )
 
 A confusion matrix can also be printed to find out the exact number of True Positives, False Positives, True Negatives and False Negatives.
