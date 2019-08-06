@@ -293,5 +293,5 @@ if __name__ == '__main__':
     plt.show()
 
     print("testing the trained classifiers on random entry : ")
-    ch = input("Enter any indice inbetween 1 to 6578")
+    ch = input("Enter any indice inbetween 1 to 6578 :")
     predict_final([title[int(ch)]],pipeline_s,pipeline_g,pipeline_p,pipeline_pe,pipeline_i)
