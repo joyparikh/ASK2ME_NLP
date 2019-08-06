@@ -1,5 +1,5 @@
 # ASK2ME_NLP
-There are 2 commented and directive jupyter notebook in this repository. Have not included the datasets shared with me, They were
+There are 2 commented and directive jupyter notebook in this repository and a python code file. Have not included the datasets shared with me, They were
 1. DataSetToExportToCollboratorsMay22_2019.xlsx
 2. JoyNLP_TestSet.xlsx
 3. CancerAKAForJoy.xlsx
@@ -36,3 +36,7 @@ For the metrics of classifier models the classification report in sklearn packag
 3. F1-score(HM of precision and recall) : 2/(Recall <sup>-1</sup> + Precision <sup>-1</sup> )
 
 A confusion matrix can also be printed to find out the exact number of True Positives, False Positives, True Negatives and False Negatives.
+
+# Python code : SVMbasedclassifier
+
+Have converted the newdata jupyter notebook into proper functions. Improved code reusability and added an overall test function at the end.
